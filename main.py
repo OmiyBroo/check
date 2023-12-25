@@ -1,3 +1,5 @@
+import os
+import pyrogram
 from pyrogram import Client, filters
 
 bot = Client(
